@@ -1,0 +1,6 @@
+F:\majiqiaofile\PersonnalRun\Common.Core\EFDataCoreDomain\bin\Debug\netcoreapp2.0\EFDataCoreDomain.deps.json
+F:\majiqiaofile\PersonnalRun\Common.Core\EFDataCoreDomain\bin\Debug\netcoreapp2.0\EFDataCoreDomain.dll
+F:\majiqiaofile\PersonnalRun\Common.Core\EFDataCoreDomain\obj\Debug\netcoreapp2.0\EFDataCoreDomain.csprojResolveAssemblyReference.cache
+F:\majiqiaofile\PersonnalRun\Common.Core\EFDataCoreDomain\obj\Debug\netcoreapp2.0\EFDataCoreDomain.csproj.CoreCompileInputs.cache
+F:\majiqiaofile\PersonnalRun\Common.Core\EFDataCoreDomain\obj\Debug\netcoreapp2.0\EFDataCoreDomain.AssemblyInfoInputs.cache
+F:\majiqiaofile\PersonnalRun\Common.Core\EFDataCoreDomain\obj\Debug\netcoreapp2.0\EFDataCoreDomain.AssemblyInfo.cs
