@@ -1,3 +1,4 @@
+using EFDataCoreDomain.Contexts;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace CommonCore.Testing
@@ -8,6 +9,11 @@ namespace CommonCore.Testing
         [TestMethod]
         public void TestMethod1()
         {
+
+            using (var context = new QGDDbContexts()) {
+
+            }
+
         }
     }
 }
