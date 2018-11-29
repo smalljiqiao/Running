@@ -7,10 +7,9 @@ using System.ComponentModel.DataAnnotations.Schema;
 namespace EFDataCoreDomain.Entities
 {
     [Table("tb_Goods_Color_Img")]
-   public class Goods_Color_Img_Entity
+   public class Goods_Color_Img_Entity:DbEntityRoot<int>
     {
         public int Id { get; set; }
-
         [Column("GoodsId")]
         public string GoodId { get; set; }
         public string ColorId { get; set; }
