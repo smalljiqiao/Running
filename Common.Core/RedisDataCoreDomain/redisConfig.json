@@ -1,0 +1,6 @@
+﻿{
+  "RedisConfig": {
+    "redisConnectionString": "127.0.0.1:6379,allowadmin=true,password=hb@2017hb@2017hb@2017",
+    "sysPrefix":"PersonnalRunning_"
+  }
+}
