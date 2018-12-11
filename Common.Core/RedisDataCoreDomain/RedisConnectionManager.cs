@@ -24,9 +24,9 @@ namespace RedisDataCoreDomain
                             var configBasePath = Directory.GetCurrentDirectory();
                             var builder=new ConfigurationBuilder().SetBasePath(configBasePath).AddJsonFile("redisConfig.json");
                             var config = builder.Build();
-                            SysPrefix = config.GetSection("RedisConfig.sysPrefix").Value;
-                            RedisConnectionString = config.GetSection("RedisConfig.redisConnectionString").Value;
-                            GetManager();
+                            SysPrefix = config.GetSection("RedisConfig:sysPrefix").Value;
+                            RedisConnectionString = config.GetSection("RedisConfig:redisConnectionString").Value;
+                            _instance= GetManager();
                         }
                     }
                 }
