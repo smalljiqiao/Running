@@ -10,3 +10,5 @@
 /.vs
 /Common.Core/BackApi/bin
 /Common.Core/BackApi/obj
+/Common.Core/MongoDBDataCore/obj
+/Common.Core/MongoDBDataCore/bin
