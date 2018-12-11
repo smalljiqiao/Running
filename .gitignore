@@ -7,3 +7,6 @@
 /Common.Core/CommonCore.Testing/bin
 /Common.Core/RedisDataCoreDomain/obj
 /Common.Core/RedisDataCoreDomain/bin/Debug/netcoreapp2.0
+/.vs
+/Common.Core/BackApi/bin
+/Common.Core/BackApi/obj
