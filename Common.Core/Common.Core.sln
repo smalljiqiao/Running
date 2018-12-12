@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackApi", "BackApi\BackApi.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedisDataCoreDomain", "RedisDataCoreDomain\RedisDataCoreDomain.csproj", "{40CA38F6-CCAC-4781-9DA5-16663C5BAF60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDBDataCore", "MongoDBDataCore\MongoDBDataCore.csproj", "{FB2C56E6-8FE2-4F7F-B9EF-D9B05EE45670}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MongoDBDataCore", "MongoDBDataCore\MongoDBDataCore.csproj", "{FB2C56E6-8FE2-4F7F-B9EF-D9B05EE45670}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MQData.Core", "MQData.Core\MQData.Core.csproj", "{229419B5-DEE9-4372-8238-C004B0BB9779}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -47,6 +49,10 @@ Global
 		{FB2C56E6-8FE2-4F7F-B9EF-D9B05EE45670}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB2C56E6-8FE2-4F7F-B9EF-D9B05EE45670}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB2C56E6-8FE2-4F7F-B9EF-D9B05EE45670}.Release|Any CPU.Build.0 = Release|Any CPU
+		{229419B5-DEE9-4372-8238-C004B0BB9779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{229419B5-DEE9-4372-8238-C004B0BB9779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{229419B5-DEE9-4372-8238-C004B0BB9779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{229419B5-DEE9-4372-8238-C004B0BB9779}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

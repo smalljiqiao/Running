@@ -12,3 +12,5 @@
 /Common.Core/BackApi/obj
 /Common.Core/MongoDBDataCore/obj
 /Common.Core/MongoDBDataCore/bin
+/Common.Core/MQData.Core/bin
+/Common.Core/MQData.Core/obj
